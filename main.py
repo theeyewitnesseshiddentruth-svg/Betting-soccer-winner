@@ -7,7 +7,7 @@ import random
 from datetime import datetime, timedelta, timezone
 
 # ====== CONFIG ======
-API_KEY = ""  # <-- Paste your API-Football key here
+API_KEY = "aef74f9e8c478d3b0d6d86d66667b03f"  # <-- Paste your API-Football key here
 BASE_URL = "https://v3.football.api-sports.io"
 HEADERS = {
     'x-rapidapi-key': API_KEY,
